@@ -63,6 +63,6 @@ body {
 body {
   min-height: 100vh;
   display: grid;
-  place-items: centerl;
+  place-items: center;
 }
 ```
